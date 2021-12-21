@@ -31,4 +31,5 @@ class MainActivity : AppCompatActivity() {
         var button: Button = findViewById(R.id.button)
 
     }
+    //add comment to check work of git
 }
